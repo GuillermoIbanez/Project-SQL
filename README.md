@@ -130,6 +130,3 @@ SELECT
     c.customer_id,
     c.first_name || ' ' || c.last_name as customer_name,
     COUNT(*) as transaction
-
-data set
-https://www.kaggle.com/datasets/rajatsurana979/comprehensive-credit-card-transactions-dataset?resource=download&select=credit_card_transaction_flow.csv
