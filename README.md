@@ -1,4 +1,135 @@
-# Project-SQL
+# Credit Card Transaction Analysis - SQL Portfolio
+
+## 🎯 Project Overview
+
+This repository demonstrates comprehensive SQL skills through analysis of credit card transaction data. The project showcases database design, complex queries, and business intelligence capabilities using PostgreSQL.
+
+## 📊 Dataset
+
+**Source**: [Comprehensive Credit Card Transactions Dataset](https://www.kaggle.com/datasets/rajatsurana979/comprehensive-credit-card-transactions-dataset) from Kaggle
+
+**Description**: Real-world financial transaction data including customer demographics, merchant information, transaction details, and fraud indicators.
+
+## 🛠️ Technology Stack
+
+- **Database**: PostgreSQL 15+
+- **GUI Tool**: pgAdmin 4
+- **Version Control**: Git/GitHub
+- **Data Source**: Kaggle CSV files
+
+## 📁 Repository Structure
+
+```
+sql-credit-card-analysis/
+├── README.md                          # This file
+├── requirements.txt                   # Dependencies
+├── data/
+│   ├── raw/                          # Original Kaggle CSV files
+│   ├── processed/                    # Cleaned/transformed data
+│   └── sample/                       # Sample data for testing
+├── sql/
+│   ├── 01_database_setup/            # Database and table creation
+│   ├── 02_data_exploration/          # Basic exploratory queries
+│   ├── 03_business_analysis/         # Business-focused analysis
+│   ├── 04_advanced_analytics/        # Complex SQL techniques
+│   └── 05_reporting/                 # Summary reports and dashboards
+├── documentation/
+│   ├── business_questions.md         # Business questions and objectives
+│   ├── database_schema.md            # Database design documentation
+│   └── insights_summary.md           # Key findings and insights
+└── scripts/
+    ├── setup_environment.py          # Environment setup
+    └── data_validation.py            # Data quality checks
+```
+
+## 🚀 Quick Start
+
+### Prerequisites
+- PostgreSQL 15+ installed
+- pgAdmin 4 (or preferred PostgreSQL client)
+- Git
+
+### Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/sql-credit-card-analysis.git
+   cd sql-credit-card-analysis
+   ```
+
+2. **Download the dataset**
+   - Visit the [Kaggle dataset page](https://www.kaggle.com/datasets/rajatsurana979/comprehensive-credit-card-transactions-dataset)
+   - Download CSV files to `data/raw/` folder
+
+3. **Create the database**
+   ```bash
+   psql -U postgres -f sql/01_database_setup/create_database.sql
+   ```
+
+4. **Create tables and load data**
+   ```bash
+   psql -U postgres -d credit_card_analysis -f sql/01_database_setup/create_tables.sql
+   psql -U postgres -d credit_card_analysis -f sql/01_database_setup/load_data.sql
+   ```
+
+5. **Run analysis queries**
+   - Execute SQL files in order (01, 02, 03, 04, 05)
+   - Use pgAdmin for interactive analysis
+
+## 📈 Key SQL Skills Demonstrated
+
+### Fundamental Skills
+- **Data Definition**: CREATE TABLE, ALTER TABLE, constraints
+- **Data Manipulation**: INSERT, UPDATE, DELETE operations
+- **Basic Queries**: SELECT, WHERE, GROUP BY, ORDER BY
+- **Aggregations**: COUNT, SUM, AVG, MIN, MAX
+
+### Intermediate Skills
+- **Joins**: INNER, LEFT, RIGHT, FULL OUTER joins
+- **Subqueries**: Correlated and non-correlated subqueries
+- **Functions**: Date functions, string functions, mathematical functions
+- **Data Types**: Working with various PostgreSQL data types
+
+### Advanced Skills
+- **Window Functions**: ROW_NUMBER(), RANK(), LAG(), LEAD()
+- **Common Table Expressions (CTEs)**: Recursive and non-recursive
+- **Performance Optimization**: Indexing, query optimization
+- **Database Design**: Normalization, relationships, constraints
+
+## 🔍 Business Analysis Areas
+
+### Customer Analytics
+- Customer segmentation and lifetime value
+- Spending pattern analysis
+- Geographic distribution analysis
+- Customer retention and churn analysis
+
+### Transaction Analysis
+- Fraud detection patterns
+- Category performance analysis
+- Seasonal trends and patterns
+- High-value transaction identification
+
+### Merchant Intelligence
+- Merchant performance metrics
+- Geographic merchant analysis
+- Category-wise merchant distribution
+- Revenue contribution analysis
+
+### Financial Insights
+- Monthly/quarterly growth analysis
+- Revenue forecasting indicators
+- Risk assessment metrics
+- Profitability analysis
+
+## 📊 Sample Queries
+
+### Customer Ranking by Total Spending
+```sql
+SELECT 
+    c.customer_id,
+    c.first_name || ' ' || c.last_name as customer_name,
+    COUNT(*) as transaction
 
 data set
 https://www.kaggle.com/datasets/rajatsurana979/comprehensive-credit-card-transactions-dataset?resource=download&select=credit_card_transaction_flow.csv
