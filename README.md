@@ -276,7 +276,7 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Other 4 Categories:</strong> Combined ~22% - <em>Significant underperformance</em></li>
 </ul>
 
-<p><strong>🚨 Strategic Implication:</strong> Travel transactions have much higher average values, representing a premium customer segment.</p>
+<p><strong>🚨 Strategic Implication:</strong> Travel transactions have much higher transaction volumes, representing a key customer segment for the company in terms of volume and potentially profitability although we cannot confirm this last point as there is not data on revenues per transaction nor profitability in general.</p>
 
 <div align="center">
  <img src="data/raw/Category_Performance.png" alt="data/raw/Category_Performance" width="120%" style="max-width: 300px;"/>
