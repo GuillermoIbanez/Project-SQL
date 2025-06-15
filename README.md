@@ -226,7 +226,7 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 <h2>📊 Basic Data Exploration - Key Business Insights</h2>
 
 <h3>🔍 Dataset Overview</h3>
-<p>Our comprehensive analysis of credit card transaction data reveals a robust dataset spanning <strong>10 months of 2023</strong> (January 1 - October 14) with significant business intelligence opportunities.</p>
+<p>Our comprehensive analysis of credit card transaction data reveals a robust dataset spanning <strong>10 months of 2023</strong> (January 1 - October 14) with significant business intelligence analysis opportunities.</p>
 
 <p><strong>Core Metrics:</strong></p>
 <ul>
@@ -238,7 +238,11 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 <li><strong>Average Transaction:</strong> $442.12</li>
 </ul>
 
-<p><em>[📸 Screenshot Placeholder: Dataset Overview Results]</em></p>
+<div align="center">
+ <img src="data/raw/Dataset_Overview.png" alt="data/raw/Dataset_Overview" width="50%" style="max-width: 250px;"/>
+</div>
+
+
 
 <h3>💰 Transaction Distribution Analysis</h3>
 
