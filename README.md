@@ -278,7 +278,9 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 
 <p><strong>🚨 Strategic Implication:</strong> Travel transactions have much higher average values, representing a premium customer segment.</p>
 
-<p><em>[📸 Screenshot Placeholder: Category Performance Table]</em></p>
+<div align="center">
+ <img src="data/raw/Category_Performance.png" alt="data/raw/Category_Performance" width="120%" style="max-width: 300px;"/>
+</div>
 
 <h3>📅 Temporal Pattern Analysis</h3>
 
