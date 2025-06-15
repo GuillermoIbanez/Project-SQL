@@ -239,7 +239,7 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 </ul>
 
 <div align="center">
- <img src="data/raw/Dataset_Overview.png" alt="data/raw/Dataset_Overview" width="120%" style="max-width: 250px;"/>
+ <img src="data/raw/Dataset_Overview.png" alt="data/raw/Dataset_Overview" width="120%" style="max-width: 400px;"/>
 </div>
 
 
@@ -256,7 +256,10 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 
 <p><strong>Key Insight:</strong> The wide gap between median ($182.20) and mean ($442.12) indicates a mix of routine purchases and high-value transactions, suggesting diverse customer spending behaviors.</p>
 
-<p><em>[📸 Screenshot Placeholder: Transaction Amount Distribution]</em></p>
+
+<div align="center">
+ <img src="data/raw/Transaction_amount_analysis.png" alt="data/raw/Transaction_amount_analysis" width="120%" style="max-width: 400px;"/>
+</div>
 
 <h3>🎯 Category Performance Analysis</h3>
 
