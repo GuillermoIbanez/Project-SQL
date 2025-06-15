@@ -31,8 +31,10 @@ CREATE DATABASE credit_card_analysis;
 CREATE SCHEMA raw_data;      -- Source data and staging
 CREATE SCHEMA analytics;     -- Processed analytical data  
 CREATE SCHEMA reporting;     -- Dashboard-ready summaries
-![Alt text for your screenshot](path/to/your/screenshot.png "Optional title for your screenshot")
 
+  <div align="center">
+    <img src="overview.gif" alt="Dashboard Overview" width="100%" max-width="800px"/>
+  </div>
 
 ### ⚙️ Technical Challenges Solved
 
