@@ -59,7 +59,7 @@
 
 <h4>🔨 Database Implementation Process</h4>
 
-<h5>Step 1: Database &amp; Schema Creation</h5>
+<h5>Database &amp; Schema Creation</h5>
 <pre><code>-- Created from scratch using PostgreSQL DDL
 CREATE DATABASE credit_card_analysis;
 
