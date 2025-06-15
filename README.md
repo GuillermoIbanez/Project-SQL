@@ -32,9 +32,12 @@ CREATE SCHEMA raw_data;      -- Source data and staging
 CREATE SCHEMA analytics;     -- Processed analytical data  
 CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 
-  <div align="center">
-    <img src="data/raw/Schema_organization_in_pgAdmin.png" alt="Schema_organization_in_pgAdmin" width="50%" max-width="250px"/>
-  </div>
+
+
+
+<div align="center">
+  <img src="data/raw/Schema_organization_in_pgAdmin.png" alt="Schema_organization_in_pgAdmin" width="50%" max-width="250px"/>
+</div>
 
 ### ⚙️ Technical Challenges Solved
 
