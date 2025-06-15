@@ -23,7 +23,7 @@ This repository demonstrates comprehensive SQL skills through analysis of credit
 ### 🔨 Database Implementation Process
 
 #### Step 1: Database & Schema Creation
-```sql
+
 -- Created from scratch using PostgreSQL DDL
 CREATE DATABASE credit_card_analysis;
 
@@ -31,8 +31,9 @@ CREATE DATABASE credit_card_analysis;
 CREATE SCHEMA raw_data;      -- Source data and staging
 CREATE SCHEMA analytics;     -- Processed analytical data  
 CREATE SCHEMA reporting;     -- Dashboard-ready summaries
+![Alt text for your screenshot](path/to/your/screenshot.png "Optional title for your screenshot")
 
-```markdown
+
 ### ⚙️ Technical Challenges Solved
 
 #### Data Import Complexity
