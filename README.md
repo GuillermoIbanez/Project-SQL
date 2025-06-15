@@ -239,7 +239,7 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 </ul>
 
 <div align="center">
- <img src="data/raw/Dataset_Overview.png" alt="data/raw/Dataset_Overview" width="100%" style="max-width: 250px;"/>
+ <img src="data/raw/Dataset_Overview.png" alt="data/raw/Dataset_Overview" width="120%" style="max-width: 250px;"/>
 </div>
 
 
