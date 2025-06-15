@@ -101,7 +101,6 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 <li>Transaction dates for temporal analysis</li>
 <li>Foreign keys for join optimization</li>
 <li>Amount ranges for statistical queries</li>
-<li>Geographic fields for location-based analysis</li>
 </ul>
 
 <h5>Data Integrity Enforcement</h5>
