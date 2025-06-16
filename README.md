@@ -307,6 +307,9 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>No weekend/weekday bias</strong> - suggests B2B and B2C mix</li>
 <li><strong>Operational stability</strong> - predictable daily volume for capacity planning</li>
 </ul>
+<div align="center">
+ <img src="data/raw/Transaction_Day_of_Week.png" alt="data/raw/Transaction_Day_of_Week" width="120%" style="max-width: 300px;"/>
+</div>
 
 <h4>Monthly Trends</h4>
 <p><strong>Stable Performance:</strong> Average transaction amount consistent at ~$400/month (Jan-Sep)</p>
@@ -314,10 +317,6 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>October Anomaly:</strong> ~50% volume drop (partial month - data ends Oct 14)</li>
 <li><strong>Forecasting Reliability:</strong> Consistent monthly patterns enable accurate projections</li>
 </ul>
-
-<div align="center">
- <img src="data/raw/Transaction_Day_of_Week.png" alt="data/raw/Transaction_Day_of_Week" width="120%" style="max-width: 300px;"/>
-</div>
 
 <div align="center">
  <img src="data/raw/Monthly_Transaction.png" alt="data/raw/Monthly_Transaction" width="120%" style="max-width: 300px;"/>
