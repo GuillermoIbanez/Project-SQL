@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<h1>💳 Credit Card Transaction Analysis</h1>
+<h1>💳 Credit Card Transactions Analysis</h1>
 
 <!-- ======================= INDEX ======================= -->
 <h2>📋 Table of Contents</h2>
