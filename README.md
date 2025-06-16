@@ -476,15 +476,15 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <tr>
 <td><strong>Medium Value</strong></td>
 <td>$1,000-$1,999</td>
-<td>~11.73%</td>
-<td>~30%</td>
+<td>11.73%</td>
+<td>19.9%</td>
 <td>Growth potential</td>
 </tr>
 <tr>
 <td><strong>Low Value</strong></td>
 <td>&lt;$1,000</td>
 <td><strong>76.72%</strong></td>
-<td>~18%</td>
+<td>28.2%</td>
 <td>Activation opportunity</td>
 </tr>
 </tbody>
