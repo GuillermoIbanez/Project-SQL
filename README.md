@@ -18,7 +18,7 @@
 <ol>
    <li><a href="#introduction">🎯 Introduction</a></li>
    <li><a href="#technical-setup">🛠️ Technical Setup</a></li>
-   <li><a href="#business-insights">📊 Basic Data Exploration - Key Business Insights</a></li>
+   <li><a href="#business-insights">📊 Data Exploration - Key Business Insights</a></li>
 </ol>
 
 <hr style="border: 2px solid #333; margin: 30px 0;">
@@ -229,7 +229,7 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 
 <!-- ======================= BUSINESS INSIGHTS SECTION ======================= -->
 <section id="business-insights">
-<h2>📊 Basic Data Exploration - Key Business Insights</h2>
+<h2>📊 Data Exploration - Key Business Insights</h2>
 
 <h3>🔍 Dataset Overview</h3>
 <p>Our comprehensive analysis of credit card transaction data reveals a robust dataset spanning <strong>10 months of 2023</strong> (January 1 - October 14) with significant business intelligence analysis opportunities.</p>
