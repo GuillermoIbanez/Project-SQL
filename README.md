@@ -559,7 +559,7 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 </ul>
 
 <div align="center">
- <img src="data/raw/quartiles_analysis_2.png" alt="data/raw/quartiles_analysis_" width="120%" style="max-width: 300px;"/>
+ <img src="data/raw/quartiles_analysis_2.png" alt="data/raw/quartiles_analysis_" width="120%" style="max-width: 500px;"/>
 </div>
 
 <hr>
