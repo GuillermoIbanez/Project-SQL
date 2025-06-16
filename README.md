@@ -119,9 +119,13 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 <li><strong>Unique Constraints:</strong> Category name uniqueness</li>
 </ul>
 
-<h3>🛠️ Technology Stack &amp; Implementation</h3>
+<!-- ======================= TECHNICAL IMPLEMENTATION OVERVIEW ======================= -->
+<section id="technical-overview">
+<h2>🛠️ Technical Implementation Overview</h2>
 
-<h4>💾 Database Infrastructure</h4>
+<h3>💾 Database Infrastructure & Architecture</h3>
+
+<h4>Core Technology Stack</h4>
 <ul>
 <li><strong>Database Engine:</strong> PostgreSQL 15+ (Enterprise-grade RDBMS)</li>
 <li><strong>Database Management:</strong> pgAdmin 4 (Professional GUI interface)</li>
@@ -129,7 +133,7 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 <li><strong>Data Types:</strong> Advanced PostgreSQL types (BIGSERIAL, DECIMAL, TIMESTAMP)</li>
 </ul>
 
-<h4>🔧 Development Environment</h4>
+<h4>Development Environment</h4>
 <ul>
 <li><strong>Code Editor:</strong> Visual Studio Code 2</li>
 <li><strong>SQL Extensions:</strong>
@@ -142,7 +146,37 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 <li><strong>Terminal Integration:</strong> VS Code integrated terminal for PostgreSQL CLI operations</li>
 </ul>
 
-<h4>📊 Data Engineering Pipeline</h4>
+<hr>
+
+<h3>📊 Advanced SQL Analytics Implementation</h3>
+
+<h4>Comprehensive SQL Proficiency Demonstrated</h4>
+
+<h5>Foundation & Intermediate Techniques</h5>
+<ul>
+<li><strong>Advanced Aggregations:</strong> COUNT, SUM, AVG, MIN, MAX with sophisticated business context</li>
+<li><strong>Statistical Functions:</strong> PERCENTILE_CONT, STDDEV for distribution analysis</li>
+<li><strong>Complex Joins:</strong> Multi-table relationships with intricate business logic</li>
+<li><strong>Data Quality Management:</strong> High-quality dataset processing with consistent formatting</li>
+<li><strong>Professional Formatting:</strong> Complex percentage calculations with proper rounding and presentation</li>
+</ul>
+
+<h5>Advanced & Expert-Level Techniques</h5>
+<ul>
+<li><strong>Window Functions:</strong> 
+<ul>
+<li>LAG() for sophisticated period-over-period growth analysis</li>
+<li>ROW_NUMBER, RANK for analytical rankings and comparisons</li>
+<li>NTILE() for statistical quartile customer segmentation</li>
+</ul>
+</li>
+<li><strong>Common Table Expressions (CTEs):</strong> Complex multi-step analytical workflows and recursive queries</li>
+<li><strong>Statistical Segmentation:</strong> Advanced customer tier classification and distribution analysis</li>
+<li><strong>Business Logic Implementation:</strong> Sophisticated CASE statements for dynamic tier classification</li>
+<li><strong>Performance Optimization:</strong> Efficient query structures designed for large-scale datasets</li>
+</ul>
+
+<h4>Professional Data Engineering Standards</h4>
 
 <h5>ETL Process Implementation</h5>
 <table>
@@ -151,6 +185,7 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 <th>Phase</th>
 <th>Technology</th>
 <th>Implementation</th>
+<th>Advanced Features</th>
 </tr>
 </thead>
 <tbody>
@@ -158,72 +193,80 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 <td><strong>Extract</strong></td>
 <td>PostgreSQL COPY</td>
 <td>Bulk CSV import with error handling</td>
+<td>Data type validation & integrity checks</td>
 </tr>
 <tr>
 <td><strong>Transform</strong></td>
 <td>Advanced SQL</td>
 <td>Data type conversions, relationship mapping</td>
+<td>Complex business logic transformations</td>
 </tr>
 <tr>
 <td><strong>Load</strong></td>
 <td>Multi-table INSERT</td>
 <td>Normalized data distribution with referential integrity</td>
+<td>Performance-optimized batch processing</td>
 </tr>
 <tr>
 <td><strong>Validate</strong></td>
 <td>SQL Constraints</td>
 <td>Data quality checks and relationship verification</td>
+<td>Statistical validation & anomaly detection</td>
 </tr>
 </tbody>
 </table>
 
-<h4>📈 Advanced SQL Analytics Implementation</h4>
-
-<h5>Query Complexity Levels Demonstrated</h5>
+<h5>Enterprise-Grade Data Presentation</h5>
 <ul>
-<li><strong>Basic Aggregations:</strong> COUNT, SUM, AVG, MIN, MAX with business context</li>
-<li><strong>Statistical Functions:</strong> PERCENTILE_CONT, STDDEV for distribution analysis</li>
-<li><strong>Advanced Joins:</strong> Multi-table relationships with complex business logic</li>
-<li><strong>Window Functions:</strong> ROW_NUMBER, RANK, LAG for analytical rankings</li>
-<li><strong>Common Table Expressions (CTEs):</strong> Complex multi-step analytical workflows</li>
+<li><strong>Number Formatting:</strong> <code>TO_CHAR</code> with thousands separators (999,999,999) for business readiness</li>
+<li><strong>Temporal Analysis:</strong> <code>DATE_TRUNC</code>, <code>EXTRACT</code> for sophisticated time-series analysis</li>
+<li><strong>Text Processing:</strong> <code>COALESCE</code>, advanced <code>CASE</code> statements for comprehensive data cleaning</li>
+<li><strong>Multi-dimensional Grouping:</strong> Complex GROUP BY operations with ROLLUP and analytical hierarchies</li>
 </ul>
 
-<h5>Professional Data Presentation</h5>
+<hr>
+
+<h3>🚀 Production-Ready Architecture & Standards</h3>
+
+<h4>Scalability & Performance Engineering</h4>
 <ul>
-<li><strong>Number Formatting:</strong> <code>TO_CHAR</code> with thousands separators (999,999,999)</li>
-<li><strong>Percentage Calculations:</strong> Precise business ratio computations with proper rounding</li>
-<li><strong>Date Manipulations:</strong> <code>DATE_TRUNC</code>, <code>EXTRACT</code> for temporal analysis</li>
-<li><strong>Text Processing:</strong> <code>COALESCE</code>, <code>CASE</code> statements for data cleaning</li>
+<li><strong>Future-Proof Design:</strong> BIGSERIAL keys for high-volume transaction growth and enterprise scalability</li>
+<li><strong>Strategic Indexing:</strong> Performance-optimized indexes for complex analytical query acceleration</li>
+<li><strong>Modular Architecture:</strong> Extensible schema design enabling seamless integration of additional data sources</li>
+<li><strong>Query Optimization:</strong> Efficient execution plans for large-scale data processing</li>
 </ul>
 
-<h4>🚀 Production-Ready Features</h4>
-
-<h5>Scalability &amp; Performance</h5>
+<h4>Enterprise Development Standards</h4>
 <ul>
-<li><strong>Future-Proof Keys:</strong> BIGSERIAL for high-volume transaction growth</li>
-<li><strong>Efficient Indexing:</strong> Strategic indexes for query performance optimization</li>
-<li><strong>Modular Architecture:</strong> Extensible schema design for additional data sources</li>
+<li><strong>Comprehensive Documentation:</strong> Detailed inline comments explaining complex business logic and analytical methodologies</li>
+<li><strong>Naming Conventions:</strong> Consistent, descriptive naming standards following industry best practices</li>
+<li><strong>Error Handling:</strong> Robust data import processes with comprehensive validation and exception management</li>
+<li><strong>Version Control:</strong> Git/GitHub integration with structured SQL file organization and professional documentation</li>
 </ul>
 
-<h5>Enterprise Standards</h5>
-<ul>
-<li><strong>Code Documentation:</strong> Comprehensive inline comments explaining business logic</li>
-<li><strong>Naming Conventions:</strong> Consistent, descriptive column and table names</li>
-<li><strong>Error Handling:</strong> Robust CSV import with data type validation</li>
-<li><strong>Professional Presentation:</strong> Formatted output with business-ready metrics</li>
-</ul>
+<hr>
 
-<h4>🔄 Version Control &amp; Documentation</h4>
+<h3>📈 Advanced Analytics Methodology</h3>
+
+<h4>Technical Analysis Approach</h4>
+<p><strong>Sophisticated Analytical Framework:</strong> This project demonstrates a comprehensive progression from foundational SQL operations through advanced statistical analysis, showcasing:</p>
+
 <ul>
-<li><strong>Repository Management:</strong> Git/GitHub with structured SQL file organization</li>
-<li><strong>Documentation Strategy:</strong> Comprehensive README with technical and business insights</li>
-<li><strong>Code Organization:</strong> Logical progression from basic to advanced analytics</li>
-<li><strong>Professional Standards:</strong> Industry-standard commenting and formatting</li>
+<li><strong>Multi-layered Analysis:</strong> Basic exploration → Intermediate aggregations → Advanced statistical modeling</li>
+<li><strong>Business Intelligence Integration:</strong> Technical SQL proficiency combined with strategic business insight generation</li>
+<li><strong>Statistical Rigor:</strong> Enterprise-level analytical methodologies including quartile analysis, growth modeling, and customer segmentation</li>
+<li><strong>Production Readiness:</strong> Code quality and documentation standards suitable for enterprise deployment</li>
 </ul>
 
 <blockquote>
-<p><strong>🎯 Technical Achievement:</strong> This project demonstrates complete database lifecycle management from conceptual design through production implementation, showcasing enterprise-level PostgreSQL database creation, ETL pipeline development, advanced SQL analytics, and professional documentation standards - all built from scratch using industry best practices.</p>
+<p><strong>🎯 Technical Achievement:</strong> This project demonstrates complete database lifecycle mastery from conceptual design through advanced analytics implementation. The work showcases enterprise-level PostgreSQL database creation, sophisticated ETL pipeline development, expert-level SQL analytics (including window functions, CTEs, and statistical modeling), and professional documentation standards - all built from scratch using industry best practices and demonstrating both technical SQL mastery and strategic business intelligence capabilities.</p>
 </blockquote>
+
+<blockquote>
+<p><strong>Advanced Analytics Methodology:</strong> The analytical approach leverages enterprise-grade SQL techniques including advanced window functions, statistical segmentation, growth trend analysis, and multi-dimensional customer modeling to transform raw transactional data into actionable business intelligence, demonstrating both deep technical proficiency and strategic analytical thinking.</p>
+</blockquote>
+
+<hr>
 
 </section>
 
@@ -381,22 +424,6 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Stable Monthly Performance:</strong> $400 average supports budgeting (although this ignores data from December and November which is not available).</li>
 <li><strong>Category Stability:</strong> Consistent ratios enable category-specific strategies</li>
 </ul>
-
-<h3>🔧 Technical Implementation Notes</h3>
-
-<p><strong>Data Quality:</strong> High-quality dataset with consistent formatting and complete transaction records through October 14, 2023.</p>
-
-<p><strong>SQL Complexity Demonstrated:</strong></p>
-<ul>
-<li>Advanced aggregations and statistical functions</li>
-<li>Multi-table joins with proper relationships</li>
-<li>Window functions for ranking and percentiles</li>
-<li>Complex percentage calculations with proper formatting</li>
-</ul>
-
-<blockquote>
-<p><strong>Analysis Methodology:</strong> This comprehensive exploration utilized advanced SQL techniques including CTEs, window functions, statistical aggregations, and multi-dimensional grouping to extract actionable business intelligence from raw transaction data.</p>
-</blockquote>
 
 </section>
 
@@ -608,25 +635,6 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <p><strong>Quartile-Based Management:</strong> The 73.69% revenue concentration in the top quartile demands a <strong>tiered customer management approach</strong> with differentiated service levels and retention investments.</p>
 
 <hr>
-
-</section>
-<h3>🔧 Advanced SQL Techniques Demonstrated</h3>
-
-<p><strong>Technical Proficiency Showcased:</strong></p>
-<ul>
-<li><strong>Window Functions:</strong> LAG() for period-over-period analysis</li>
-<li><strong>Statistical Segmentation:</strong> NTILE() for quartile analysis</li>
-<li><strong>Complex CTEs:</strong> Multi-step analytical workflows</li>
-<li><strong>Advanced Aggregations:</strong> Nested percentage calculations</li>
-<li><strong>Business Logic Implementation:</strong> CASE statements for tier classification</li>
-<li><strong>Performance Optimization:</strong> Efficient query structures for large datasets</li>
-</ul>
-
-<hr>
-
-<blockquote>
-<p><strong>Advanced Analytics Methodology:</strong> This sophisticated analysis leveraged enterprise-level SQL techniques including window functions, statistical segmentation, and growth trend analysis to transform raw transaction data into actionable business intelligence, demonstrating both technical SQL mastery and strategic business acumen.</p>
-</blockquote>
 
 </section>
 
