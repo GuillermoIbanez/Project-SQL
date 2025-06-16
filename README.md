@@ -310,12 +310,11 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 
 <h4>High-Value Customer Analysis</h4>
 <p><strong>Top 20 Customers Identified</strong> with detailed spending profiles including:</p>
-<ul>
-<li>Transaction frequency patterns</li>
-<li>Customer lifetime spans</li>
-<li>Geographic distribution</li>
-<li>Spending consistency</li>
-</ul>
+
+<div align="center">
+ <img src="data/raw/Top_20_Customers.png" alt="data/raw/Top_20_Customers" width="120%" style="max-width: 300px;"/>
+</div>
+
 
 <h3>🏪 Merchant Performance &amp; Market Structure</h3>
 
