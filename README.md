@@ -18,7 +18,7 @@
 <ol>
    <li><a href="#introduction">🎯 Introduction</a></li>
    <li><a href="#technical-setup">🛠️ Technical Setup</a></li>
-   <li><a href="#technical-SQL skills">🛠️ Technical SQL Skills</a></li>
+   <li><a href="#technical-SQL-skills">🛠️ Technical SQL Skills</a></li>
    <li><a href="#business-insights">📊 Data Exploration - Key Business Insights</a></li>
    <li><a href="#advanced-analytics">📈 Advanced SQL Analytics - Key Business Intelligence Insights</a></li>
 </ol>
@@ -121,7 +121,7 @@ CREATE SCHEMA reporting;     -- Dashboard-ready summaries
 </ul>
 
 <!-- ======================= Technical SQL Skills ======================= -->
-<section id="Technical SQL Skills">
+<section id="technical-SQL-skills">
 <h2>🛠️ Technical SQL Skills</h2>
 
 <h3>💾 Database Infrastructure & Architecture</h3>
