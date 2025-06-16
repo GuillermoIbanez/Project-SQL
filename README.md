@@ -317,11 +317,6 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li>Spending consistency</li>
 </ul>
 
-<h4>Geographic Distribution</h4>
-<p>Analysis reveals customer concentration patterns across states, enabling targeted regional strategies.</p>
-
-<p><em>[📸 Screenshot Placeholder: Top Customers Table]</em></p>
-
 <h3>🏪 Merchant Performance &amp; Market Structure</h3>
 
 <h4>Market Concentration</h4>
