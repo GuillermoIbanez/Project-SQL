@@ -404,6 +404,8 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 </body>
 </html>
 
+<hr style="border: 3px solid #9b59b6; margin: 50px 0;">
+
 <!-- ======================= ADVANCED ANALYTICS SECTION ======================= -->
 <section id="advanced-analytics">
 <h2>📈 Advanced SQL Analytics - Key Business Intelligence Insights</h2>
