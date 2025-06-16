@@ -298,7 +298,13 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Forecasting Reliability:</strong> Consistent monthly patterns enable accurate projections</li>
 </ul>
 
-<p><em>[📸 Screenshot Placeholder: Weekly and Monthly Patterns]</em></p>
+<div align="center">
+ <img src="data/raw/data/raw/Transaction_Day_of_Week.png" alt="data/raw/Transaction_Day_of_Week" width="120%" style="max-width: 300px;"/>
+</div>
+
+<div align="center">
+ <img src="data/raw/Monthly_Transaction.png" alt="data/raw/Monthly_Transaction" width="120%" style="max-width: 300px;"/>
+</div>
 
 <h3>👥 Customer Behavior Insights</h3>
 
