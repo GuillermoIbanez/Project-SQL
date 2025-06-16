@@ -544,11 +544,11 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 
 <p><strong>Quartile Analysis Implications:</strong></p>
 <ul>
-<li><strong>Ultra-High Concentration:</strong> Top quartile generates nearly 3/4 of all revenue</li>
+<li><strong>Ultra-High Concentration:</strong> Top quartile generates nearly 3/4 of all transactions volume</li>
 <li><strong>Risk Amplification:</strong> Business vulnerability concentrated in just 25% of customer base</li>
 <li><strong>Resource Priority:</strong> Quartile-based segmentation reveals even stronger case for VIP customer focus</li>
 <li><strong>Growth Strategy:</strong> Moving customers from lower quartiles to top quartile has massive revenue impact</li>
-<li><strong>Retention Critical:</strong> Loss of top-quartile customers would devastate revenue performance</li>
+<li><strong>Retention Critical:</strong> Loss of top-quartile customers would significantly affect transactions volume and probably revenues (we do not have data on profitability or revenues).</li>
 </ul>
 
 <p><strong>Strategic Recommendations Based on Quartile Analysis:</strong></p>
