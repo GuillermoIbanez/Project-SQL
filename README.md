@@ -451,6 +451,7 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <div align="center">
  <img src="data/raw/monthly_trends.png" alt="data/raw/monthly_trends" width="120%" style="max-width: 300px;"/>
 </div>
+
 <hr>
 
 <h3>👥 Advanced Customer Segmentation Intelligence</h3>
@@ -509,6 +510,58 @@ All 6 categories show remarkably even distribution (~16% each):</p>
  <img src="data/raw/tiers_analysis.png" alt="data/raw/tiers_analysis" width="120%" style="max-width: 300px;"/>
 </div>
 
+<hr>
+
+<h3>📈 Quartile-Based Customer Analysis</h3>
+
+<h4>Statistical Customer Segmentation via NTILE Analysis</h4>
+<p>Advanced quartile segmentation using SQL window functions reveals even more pronounced <strong>customer concentration patterns</strong> that exceed traditional tier-based analysis.</p>
+
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Value</th>
+<th>Strategic Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Top Quartile Customers</strong></td>
+<td>25%</td>
+<td>Critical customer segment</td>
+</tr>
+<tr>
+<td><strong>Share of Total Transaction Volume</strong></td>
+<td><strong>73.69%</strong></td>
+<td>Extreme revenue concentration</td>
+</tr>
+</tbody>
+</table>
+
+<h4>🎯 Quartile Distribution Insights</h4>
+<p><strong>🚨 Critical Statistical Finding:</strong> The top 25% quartile of customers accounts for an extraordinary <strong>73.69% of total transaction volume</strong> - demonstrating extreme revenue concentration that surpasses even the Pareto Principle expectations.</p>
+
+<p><strong>Quartile Analysis Implications:</strong></p>
+<ul>
+<li><strong>Ultra-High Concentration:</strong> Top quartile generates nearly 3/4 of all revenue</li>
+<li><strong>Risk Amplification:</strong> Business vulnerability concentrated in just 25% of customer base</li>
+<li><strong>Resource Priority:</strong> Quartile-based segmentation reveals even stronger case for VIP customer focus</li>
+<li><strong>Growth Strategy:</strong> Moving customers from lower quartiles to top quartile has massive revenue impact</li>
+<li><strong>Retention Critical:</strong> Loss of top-quartile customers would devastate revenue performance</li>
+</ul>
+
+<p><strong>Strategic Recommendations Based on Quartile Analysis:</strong></p>
+<ul>
+<li><strong>Immediate Priority:</strong> Implement dedicated account management for top 25% of customers</li>
+<li><strong>Risk Mitigation:</strong> Develop comprehensive retention programs for high-value quartile</li>
+<li><strong>Growth Focus:</strong> Create targeted campaigns to elevate 2nd and 3rd quartile customers</li>
+<li><strong>Performance Monitoring:</strong> Establish quartile-based KPIs and early warning systems</li>
+</ul>
+
+<div align="center">
+ <img src="data/raw/quartile_analysis.png" alt="data/raw/quartile_analysis" width="120%" style="max-width: 300px;"/>
+</div>
 
 <hr>
 
@@ -534,18 +587,17 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Fee Structure:</strong> Consider transaction size in pricing models</li>
 <li><strong>Marketing Strategy:</strong> Focus on frequent, smaller purchases rather than large-ticket items</li>
 </ul>
+
 <div align="center">
  <img src="data/raw/transaction_size.png" alt="data/raw/transaction_size" width="120%" style="max-width: 300px;"/>
 </div>
-
-
 
 <hr>
 
 <h3>🎯 Advanced Analytics Business Impact</h3>
 
 <h4>Strategic Decision Support</h4>
-<p><strong>Revenue Concentration Risk:</strong> High dependency on 11.55% of customers for majority revenue requires <strong>customer retention strategies</strong> and <strong>diversification initiatives</strong>.</p>
+<p><strong>Revenue Concentration Risk:</strong> Extreme dependency on top 25% of customers for 73.69% of revenue requires immediate implementation of <strong>customer retention strategies</strong> and <strong>diversification initiatives</strong>.</p>
 
 <h4>Operational Optimization</h4>
 <p><strong>Transaction Processing Focus:</strong> 76.73% micro/small transaction dominance suggests optimizing systems for <strong>high-frequency, low-value processing</strong> rather than occasional large transactions.</p>
@@ -553,8 +605,12 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <h4>Seasonal Planning Intelligence</h4>
 <p><strong>Predictable Patterns:</strong> Alternating monthly growth/decline pattern with post-summer seasonality enables <strong>proactive resource planning</strong> and <strong>cash flow forecasting</strong>.</p>
 
+<h4>Customer Portfolio Strategy</h4>
+<p><strong>Quartile-Based Management:</strong> The 73.69% revenue concentration in the top quartile demands a <strong>tiered customer management approach</strong> with differentiated service levels and retention investments.</p>
+
 <hr>
 
+</section>
 <h3>🔧 Advanced SQL Techniques Demonstrated</h3>
 
 <p><strong>Technical Proficiency Showcased:</strong></p>
