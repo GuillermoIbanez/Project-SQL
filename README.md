@@ -419,8 +419,6 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Statistical Distribution Analysis:</strong> Transaction size categorization</li>
 </ul>
 
-<p><em>[📸 Screenshot Placeholder: Advanced SQL Query Examples]</em></p>
-
 <hr>
 
 <h3>📊 Monthly Growth Pattern Analysis</h3>
@@ -446,8 +444,9 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Planning Opportunity:</strong> Anticipate lower Q3 performance for resource allocation</li>
 </ul>
 
-<p><em>[📸 Screenshot Placeholder: Monthly Growth Analysis Results]</em></p>
-
+<div align="center">
+ <img src="data/raw/monthly_trends.png" alt="data/raw/monthly_trends" width="120%" style="max-width: 300px;"/>
+</div>
 <hr>
 
 <h3>👥 Advanced Customer Segmentation Intelligence</h3>
@@ -502,7 +501,10 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Risk Management:</strong> High revenue dependency on small customer segment</li>
 </ul>
 
-<p><em>[📸 Screenshot Placeholder: Customer Tier Analysis Results]</em></p>
+<div align="center">
+ <img src="data/raw/tiers_analysis.png" alt="data/raw/tiers_analysis" width="120%" style="max-width: 300px;"/>
+</div>
+
 
 <hr>
 
@@ -528,8 +530,11 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Fee Structure:</strong> Consider transaction size in pricing models</li>
 <li><strong>Marketing Strategy:</strong> Focus on frequent, smaller purchases rather than large-ticket items</li>
 </ul>
+<div align="center">
+ <img src="data/raw/transaction_size.png" alt="data/raw/transaction_size" width="120%" style="max-width: 300px;"/>
+</div>
 
-<p><em>[📸 Screenshot Placeholder: Transaction Size Distribution]</em></p>
+
 
 <hr>
 
@@ -557,8 +562,6 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Business Logic Implementation:</strong> CASE statements for tier classification</li>
 <li><strong>Performance Optimization:</strong> Efficient query structures for large datasets</li>
 </ul>
-
-<p><em>[📸 Screenshot Placeholder: Complex SQL Code Examples]</em></p>
 
 <hr>
 
