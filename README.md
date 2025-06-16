@@ -299,7 +299,7 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 </ul>
 
 <div align="center">
- <img src="data/raw/data/raw/Transaction_Day_of_Week.png" alt="data/raw/Transaction_Day_of_Week" width="120%" style="max-width: 300px;"/>
+ <img src="data/raw/Transaction_Day_of_Week.png" alt="data/raw/Transaction_Day_of_Week" width="120%" style="max-width: 300px;"/>
 </div>
 
 <div align="center">
