@@ -329,7 +329,7 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <p><strong>Travel Category Monopoly:</strong> All top 15 merchants operate in travel sector</p>
 <ul>
 <li><strong>Sector concentration risk</strong></li>
-<li><strong>Limited category diversification</strong> in top performers</li>
+<li><strong>Limited category diversification</strong> in top merchant partners</li>
 </ul>
 
 <h4>Customer Diversification Health</h4>
@@ -339,14 +339,16 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li><strong>Healthy competitive landscape</strong> beyond top 2 players</li>
 </ul>
 
-<p><em>[📸 Screenshot Placeholder: Merchant Performance Analysis]</em></p>
+<div align="center">
+ <img src="data/raw/Top_Merchants.png" alt="data/raw/Top_Merchants" width="120%" style="max-width: 300px;"/>
+</div>
 
 <h3>🎯 Strategic Business Implications</h3>
 
 <h4>💼 Key Opportunities</h4>
 <ol>
-<li><strong>Premium Category Strategy:</strong> Investigate travel's high-value model for replication</li>
-<li><strong>Electronics Growth:</strong> 2nd largest category with expansion potential (currently 19.88%)</li>
+<li><strong>Premium Category Strategy:</strong> Investigate travel's high-value model for replication (currently 58.36% of total transaction volume)</li>
+<li><strong>Electronics Growth:</strong> 2nd largest category with expansion potential (currently 19.88% of total transaction volume)</li>
 <li><strong>Customer Loyalty:</strong> 50% diversity suggests room for retention programs</li>
 </ol>
 
@@ -354,13 +356,13 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <ol>
 <li><strong>Revenue Concentration:</strong> 58% dependency on travel category</li>
 <li><strong>Merchant Dependency:</strong> Top 2 merchants control &gt;20% volume</li>
-<li><strong>Seasonal Patterns:</strong> Monitor Q4 performance (data gap Nov-Dec)</li>
+<li><strong>Seasonal Patterns:</strong> Difficult to monitor or take actionable conclusions with missing data from November and December</li>
 </ol>
 
 <h4>📈 Forecasting Insights</h4>
 <ul>
 <li><strong>Predictable Daily Volume:</strong> ~14% distribution enables capacity planning</li>
-<li><strong>Stable Monthly Performance:</strong> $400 average supports budgeting</li>
+<li><strong>Stable Monthly Performance:</strong> $400 average supports budgeting (although this ignores data from December and November which is not available).</li>
 <li><strong>Category Stability:</strong> Consistent ratios enable category-specific strategies</li>
 </ul>
 
@@ -375,8 +377,6 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <li>Window functions for ranking and percentiles</li>
 <li>Complex percentage calculations with proper formatting</li>
 </ul>
-
-<p><em>[📸 Screenshot Placeholder: Technical Query Examples]</em></p>
 
 <blockquote>
 <p><strong>Analysis Methodology:</strong> This comprehensive exploration utilized advanced SQL techniques including CTEs, window functions, statistical aggregations, and multi-dimensional grouping to extract actionable business intelligence from raw transaction data.</p>
