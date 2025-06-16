@@ -312,7 +312,7 @@ All 6 categories show remarkably even distribution (~16% each):</p>
 <p><strong>Top 20 Customers Identified</strong> with detailed spending profiles including:</p>
 
 <div align="center">
- <img src="data/raw/Top_20_Customers.png" alt="data/raw/Top_20_Customers" width="120%" style="max-width: 300px;"/>
+ <img src="data/raw/Top_20__Customers.png" alt="data/raw/Top_20_Customers" width="120%" style="max-width: 300px;"/>
 </div>
 
 
